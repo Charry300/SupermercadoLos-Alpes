@@ -7,6 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <link rel="stylesheet" href="css/fontello.css">
         <link rel="stylesheet" href="css/estilos.css">
+        <link rel="stylesheet" href="css/banner.css">
+        <link rel="stylesheet" href="css/blog.css">
+        <link rel="stylesheet" href="css/info.css">
+        <link rel="stylesheet" href="css/menu.css">
 
 </head>
 <body>
@@ -20,12 +24,13 @@
             <a href="">Electrodomesticos</a>
             <a href="">Hogar</a>
             <a href="">Deportes y Tiempos Libres</a>
+            <a href="login.php">login</a>
         </nav>
     </div>
     </header>
     <main>
         <section id="banner">
-            <img src="1.jpeg">
+            <img src="1.jpg">
         <div class="contenedor">
             <h2>Frutas Y Verduras</h2>
             <p>¿Cual es su Frutas y Verduras Favoritas?</p>
@@ -62,11 +67,11 @@
                 <h3>Conoce mas a fondo nuestros productos del mejor supermercado a nivel nacional</h3>
                 <div class="contenedor">
                     <div class="info-pet">
-                        <img src="55.jpg" alt="">
+                        <img src="55.png" alt="">
                         <h4>Mision</h4>
                     </div>  
                     <div class="info-pet">
-                        <img src="66.jpg" alt="">
+                        <img src="66.png" alt="">
                         <h4>Vision</h4>
                     </div>   
                     <div class="info-pet">
@@ -80,7 +85,7 @@
         <div class="contenedor">
             <p class="copy">Supermercado &copy; 2019</p>
             <div class="sociales">
-                <a class="icon-facebook-1" href="#"></a>
+                <a class="icon-facebook" href="#"></a>
                 <a class="icon-gplus" href="#"></a>
                 <a class="icon-twitter" href="#"></a>
             </div>

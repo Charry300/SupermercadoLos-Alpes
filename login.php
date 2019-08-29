@@ -31,11 +31,12 @@
                 <label class="form-check-label" for="exampleCheck1"></label>
             </div>
             <center>
-              <button type="submit" class="btn btn-success">Calcular</button>
+              <button type="submit" class="btn btn-success">Ingresar</button>
             </center>   
         </form>
         <center>
         <a href="Registro.php"  style="margin: 400 0 0 611 ; color: white">Regristrarse</a>
+        <a href=""  style="margin: 400 0 0 0 ; color: white">¿Olvido su Contraseña?</a>
         <center>
             </div>
               <div class="col-12 col-xd-4 col-lg-4">

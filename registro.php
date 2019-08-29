@@ -9,27 +9,27 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Registrar</title>
     </head>
-        <body background="">
-            <h1 style="text-align: center; margin : 40px 0 0 0; color:black">Datos Personales</h1>
+        <body background="2.jpg">
+            <h1 style="text-align: center; margin : 40px 0 0 0; color: white">Datos Personales</h1>
                 <form action="http://localhost/programacion1/login.php" method="post">
                     <div>
-                        <label for="name">Nombre:</label>
+                        <label for="name">Nombre</label>
                         <input type="text" id="name" />
                     </div>
                     <div>
-                        <label for="surname">Apellido:</label>
+                        <label for="surname">Apellido</label>
                         <input type="text" id="surname" />
                     </div>
                     <div>
-                        <label for="mail">Correo Electronico:</label>
+                        <label for="mail">Correo Electronico</label>
                         <input type="email" id="mail" />
                     </div>
                     <div>
-                        <label for="text">Contraseña:</label>
+                        <label for="text">Contraseña</label>
                         <input type="password" id="text" />
                     </div>
                     <div>
-                        <label for="text">Repita Contraseña:</label>
+                        <label for="text">Repita Contraseña</label>
                         <input type="password" id="text" />
                     </div>
                     <div class="button">
@@ -41,7 +41,7 @@
             {
              /* Sólo para centrar el formulario a la página */
                 margin: 0 auto;
-                width: 400px;
+                width: 500px;
                 /* Para ver el borde del formulario */
                 padding: 1em;
                 border: 1px solid #CCC;
@@ -70,7 +70,7 @@
                 box-sizing: border-box;
 
                 /* Para armonizar el look&feel del borde en los campos de texto */
-                border: 1px solid #999;
+                border: 2px solid #999;
             }
             input:focus, textarea:focus 
             {
@@ -92,7 +92,7 @@
             button 
             {
                 /* Para posicionar los botones a la misma posición que los campos de texto */
-                padding-left: 20px; /* mismo tamaño a todos los elementos label */
+                padding-left: 15px; /* mismo tamaño a todos los elementos label */
             }
             button 
             {
